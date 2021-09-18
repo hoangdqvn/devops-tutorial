@@ -4,7 +4,7 @@ DevOps from scratch
 ### Hi there 👋
 
 
-**hoangdqvn/hoangdqvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hoangdqvn/devops-tutorial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my mentor's EC2 instance.
 
 Here are some ideas to get you started:
 
